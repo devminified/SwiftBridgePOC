@@ -58,6 +58,12 @@ If you encounter issues with CocoaPods, ensure you have the correct version inst
 React Native Build Issues:
 If you face errors while running the React Native app, reset your environment:
 
+
+
 - cd ios pod install --repo-update cd ..
 - yarn start --reset-cache
 - npx react-native run-ios
+
+
+<img width="489" alt="Screenshot 2024-12-04 at 5 16 17 PM" src="https://github.com/user-attachments/assets/8a857913-7984-4c65-8dd9-861ca4c1e7b5">
+
